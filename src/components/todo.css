@@ -1,0 +1,62 @@
+/* App.css */
+
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .categories {
+    margin: 20px 0;
+  }
+  
+  label {
+    margin-right: 15px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .category {
+    display: inline-block;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 30%;
+  }
+  
+  .category h2 {
+    font-size: 18px;
+    color: #007BFF;
+  }
+  
+  li {
+    margin: 5px 0;
+  }
+  
